@@ -1,0 +1,2 @@
+# pentaq
+game sdk repository
